@@ -1,0 +1,14 @@
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\bin\Debug\Prog3BPoe.exe.config
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\bin\Debug\Prog3BPoe.exe
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\bin\Debug\Prog3BPoe.pdb
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\obj\Debug\Prog3BPoe.csproj.AssemblyReference.cache
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\obj\Debug\Prog3BPoe.Form1.resources
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\obj\Debug\Prog3BPoe.Properties.Resources.resources
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\obj\Debug\Prog3BPoe.csproj.GenerateResource.cache
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\obj\Debug\Prog3BPoe.csproj.CoreCompileInputs.cache
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\obj\Debug\Prog3BPoe.exe
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\obj\Debug\Prog3BPoe.pdb
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\obj\Debug\Prog3BPoe.ReportIssuesForm.resources
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\obj\Debug\Prog3BPoe.LocalEventsForm.resources
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\obj\Debug\Prog3BPoe.ServiceRequestDisplayControl.resources
+C:\Users\farii\source\repos\Prog3BPoe\Prog3BPoe\obj\Debug\Prog3BPoe.ServiceRequestStatusForm.resources
